@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Giga:wght@100..900&display=swap');
+
+body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	font-family: "Lexend Giga", serif;
+	color: #fff;
+	background-color: #112d49;
+}
+
+.component {
+	margin-bottom: 100px;
+	border: 1px solid #fff;
+	padding: 50px;
+}
+
+button {
+	outline: none;
+	border: none;
+	padding: 5px 10px;
+	border-radius: 5px;
+}

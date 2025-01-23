@@ -21,12 +21,12 @@ const Chapter8 = () => {
 	}
 
 	return (
-		<>
+		<div className='component'>
 			<h1>Часть 8</h1>
 			<button className={greenBtn} onClick={handleClick}>
 				{buttonText}
 			</button>
-		</>
+		</div>
 	)
 }
 export default Chapter8
