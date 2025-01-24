@@ -5,7 +5,7 @@ body {
 	flex-direction: column;
 	align-items: center;
 	text-align: center;
-	font-family: "Lexend Giga", serif;
+	font-family: 'Lexend Giga', serif;
 	color: #fff;
 	background-color: #112d49;
 }
@@ -22,4 +22,5 @@ button {
 	padding: 5px 10px;
 	border-radius: 5px;
 	cursor: pointer;
+	margin: 10px;
 }

@@ -1,9 +1,6 @@
-import { MouseEventHandler } from 'react'
+import { IBtn } from '../../types/buttons.types'
 
-interface IButton {
-	onClick: MouseEventHandler<HTMLButtonElement>
-}
-const Chapter16Button = (props: IButton) => {
+const Chapter16Button = (props: IBtn) => {
 	return (
 		<>
 			<button
