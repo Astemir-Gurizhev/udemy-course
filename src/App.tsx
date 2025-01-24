@@ -5,6 +5,7 @@ import Chapter16 from './components/chapter-16/Chapter16'
 import Chapter17 from './components/chapter-17/Chapter17'
 import Chapter18 from './components/chapter-18/Chapter18'
 import Chapter19 from './components/chapter-19/Chapter19'
+import Chapter21 from './components/chapter-21/Chapter21'
 import Chapter8 from './components/chapter-8/Chapter8'
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
 			<Chapter17 />
 			<Chapter18 />
 			<Chapter19 />
+			<Chapter21 />
 		</>
 	)
 }
